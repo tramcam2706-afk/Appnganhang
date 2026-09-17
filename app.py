@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("logo.jpg")
 from datetime import date, timedelta
 from calendar import monthrange
  
